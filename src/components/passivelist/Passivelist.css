@@ -1,0 +1,9 @@
+.passive_list {
+  margin: auto;
+  width: 400px;
+  padding: 15px;
+  align-items: stretch;
+}
+h2 {
+  text-align: center;
+}

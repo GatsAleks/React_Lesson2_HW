@@ -1,0 +1,9 @@
+.active_passive_list {
+  margin: auto;
+  width: 800px;
+  display: flex;
+  justify-content: center;
+}
+.app {
+  margin: auto;
+}
